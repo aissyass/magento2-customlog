@@ -13,7 +13,7 @@ This is just a example, You can inject the custom log in your catch treatment (I
 ## To test this module :  
 - Create the namespace PHPAISS in the path app\code  
 - Create the module named CustomLog in the path app\code\PHPAISS  
-- Clone this files and put them into folder app\code\PHPAIS\CustomLog  
+- Clone this files and put them into folder app\code\PHPAISS\CustomLog  
 - Run the following command lines:    
   ``bin/magento setup:upgrade --keep-generated``    
   ``bin/magento cache:flush``
